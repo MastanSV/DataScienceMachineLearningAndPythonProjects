@@ -2,7 +2,9 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-# This newly added line
+# This newly first added line
+# This newly second added line
+#This newly third added line
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
